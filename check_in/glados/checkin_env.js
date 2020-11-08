@@ -70,7 +70,7 @@ if (
         "机场签到",
         "",
         "请在 BoxJs/Secrets 检查标题填写是否正确",
-        "http://boxjs.com"
+        "http://boxjs.net"
       );
     }
   }
@@ -95,7 +95,7 @@ if (
         "机场签到",
         "",
         "请在 BoxJs/Secrets 检查登陆链接填写是否正确",
-        "http://boxjs.com"
+        "http://boxjs.net"
       );
     }
   }
@@ -120,7 +120,7 @@ if (
         "机场签到",
         "",
         "请在 BoxJs/Secrets 检查邮箱填写是否正确",
-        "http://boxjs.com"
+        "http://boxjs.net"
       );
     }
   }
@@ -145,7 +145,7 @@ if (
         "机场签到",
         "",
         "请在 BoxJs/Secrets 检查密码填写是否正确",
-        "http://boxjs.com"
+        "http://boxjs.net"
       );
     }
   }
